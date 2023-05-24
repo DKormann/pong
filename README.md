@@ -1,3 +1,3 @@
 # Pong
 
-simple 2d pong with godot game
+simple 2d pong with godot engine
